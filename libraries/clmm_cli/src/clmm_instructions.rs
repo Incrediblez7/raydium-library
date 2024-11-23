@@ -197,7 +197,7 @@ pub fn open_position_instr(
             tick_upper_index,
             tick_array_lower_start_index,
             tick_array_upper_start_index,
-            with_metadata,
+            with_matedata,
             base_flag: None,
         })
         .instructions()?;
